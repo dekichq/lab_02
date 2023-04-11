@@ -1,0 +1,35 @@
+/* Завдання 2 */
+.table1 td, .table1 th {                
+    border: 1px solid #6395ff;
+    padding: 5px 10px 5px 10px;
+
+}
+.table1 {
+    border-spacing: 0;
+    width: 500px;
+}
+.table1 thead {
+    background-color: #dae1f8;
+}
+.table1 tfoot {
+    background-color: #5776b1;
+    color: #ffF;
+    text-align: end;
+}
+
+.table2 td, .table2 th {
+    border: 2px solid #000000;
+    padding: 5px 10px 5px 10px;
+}
+.table2 {
+    border-spacing: 0;
+    font-family: Calibri;
+}
+
+.qwe {
+    background-color: #d9e1f2;
+}
+.wasd {
+    background-color: #e2efda;
+}
+
